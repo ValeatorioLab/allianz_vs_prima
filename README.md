@@ -13,7 +13,7 @@ Questo progetto realizza un'analisi di mercato nel settore assicurativo italiano
 
 - **Dinamiche Competitive Future:** I modelli previsionali indicano una crescita accelerata per Prima Assicurazioni, con il potenziale di **ridurre significativamente il divario** di interesse con Allianz nei prossimi 12 mesi.
 
-(inserire Grafico finale previsionale)
+![Grafico delle previsioni comparative per Allianz e Prima Assicurazioni](Plots/previsioni_finali.png)
 
 ## Tech Stack
 L'analisi è stata condotta interamente in R. Le principali librerie utilizzate sono:
