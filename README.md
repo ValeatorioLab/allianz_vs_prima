@@ -29,18 +29,17 @@ L'analisi è stata condotta interamente in R. Le principali librerie utilizzate 
 Il progetto è organizzato secondo una struttura standard per garantire chiarezza e riproducibilità.
 
 ```
-/analisi-impatto-assicurazioni/
+/allianz_vs_prima/
 |
 |-- README.md                # File di presentazione del progetto
-|-- report.Rmd               # Codice sorgente R Markdown con l'analisi completa
 |-- .gitignore               # Specifica i file temporanei da ignorare
 |
-|-- /data/
+|-- /Data/
 |   |-- multiTimeline.csv    # Dati grezzi utilizzati
 |
-|-- /report/
-|   |-- report.pdf           # Report finale in formato PDF, pronto per la lettura
-|
+|-- /Report/
+|   |-- Analisi-di-Mercato-e-Stima-d-Impatto.pdf           # Report finale in formato PDF, pronto per la lettura
+|   |-- Analisi di Mercato e Stima d'Impatto.Rmd           # Codice sorgente R Markdown con l'analisi completa
 |-- /plots/
 |   |-- previsioni_finali.png  # Grafico principale generato
 ```
